@@ -1,0 +1,88 @@
+
+
+Auto Management System
+
+
+Add a car
+	Enter details
+		StockNumber
+			enter stocknumber
+			valid format
+		Year
+			enteryear
+			valid format
+		Make
+			enter make
+		Model
+			enter model
+		Color
+			enter color
+		Mileage
+			enter mileage
+			valid format
+		Price
+			enter price
+			valid format
+	if car exists
+		Write "This car already exists."
+	else
+		Add new car.
+
+
+Update a car
+	enter stock number
+		if not found, write "not found"
+		else what do i want to update
+			stocknumber
+				enter stock number
+				valid format
+				already exists?
+			year
+				enter year
+				valid format
+			make
+				enter make
+			model
+				enter model
+			color
+				enter color
+			mileage
+				enter mileage
+				valid format
+			price
+				enter price
+				valid format
+		valid format
+		update anything else?
+		
+Delete a car
+	delete car
+		enter stock number
+			if exists, is this the car you want to delete?
+				if yes
+					delete
+				if no
+					enter stock number
+
+
+Search for a car
+	Enter Stock Number
+	View Car.
+		or no matching inventory found.
+
+
+View a Full List of Cars
+	View all cars
+	or no cars listed.
+
+
+
+Exit
+
+
+
+
+If invalid choice, write "Invalid Choice. Please enter a valid choice. 
+
+
+306

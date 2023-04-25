@@ -1,0 +1,14 @@
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.exe
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.deps.json
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.runtimeconfig.json
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.runtimeconfig.dev.json
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.dll
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\bin\Debug\netcoreapp3.1\FinalProjectButtery.pdb
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.AssemblyInfo.cs
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.dll
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.pdb
+C:\Users\heath\Desktop\DMACCCLASSES\3. Spring 2023\CIS152 Data Structures\Final Project\FinalProjectButtery\obj\Debug\netcoreapp3.1\FinalProjectButtery.genruntimeconfig.cache
